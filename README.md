@@ -3,7 +3,7 @@
 [![crates.io](https://img.shields.io/crates/v/rustc-to-go-target.svg)][`rustc-to-go-target`]
 [![crates.io](https://img.shields.io/crates/d/rustc-to-go-target.svg)][`rustc-to-go-target`]
 
-Library for conversion of targets supported by `rustc` (aka target triples) to targets supported by `go`.
+Library for conversion of targets supported by `rustc` (aka target triplets) to targets supported by `go`.
 
 ## Usage
 
